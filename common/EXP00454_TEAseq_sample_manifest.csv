@@ -1,0 +1,13 @@
+﻿lab_label,pbmc_sample_id,stimulation,treatment,timepoint,treat_time
+T72 Len,PC02184-038,unstimulated,lenalidomide,72,3-len_72
+T72 Bort,PC02184-039,unstimulated,bortezomib,72,3-bor_72
+T72 dmso,PC02184-040,unstimulated,dmso,72,3-dms_72
+T24 Dex,PC02184-041,unstimulated,dexamethasone,24,2-dex_24
+T24 len,PC02184-042,unstimulated,lenalidomide,24,2-len_24
+T24 Bort,PC02184-043,unstimulated,bortezomib,24,2-bor_24
+T24 dmso,PC02184-044,unstimulated,dmso,24,2-dms_24
+T4 Dex,PC02184-045,unstimulated,dexamethasone,4,1-dex_4
+T4 Len,PC02184-046,unstimulated,lenalidomide,4,1-len_4
+T4 Bort,PC02184-047,unstimulated,bortezomib,4,1-bor_4
+T4 dmso,PC02184-048,unstimulated,dmso,4,1-dms_4
+T0,PC02184-049,unstimulated,untreated,0,0-unt_0
