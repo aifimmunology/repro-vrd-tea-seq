@@ -3,6 +3,9 @@
 This repository houses Jupyter Notebooks that are used for reproducible analysis of T cells treated 
 with bortezomib, lenalidomide, or dexamethasone and profiled using the trimodal single-cell assay TEA-seq.
 
+These notebooks can be used within the Human Immune System Explorer (HISE) framework for traceable, 
+reproducible analysis that results in a Certificate of Reproducibility.
+
 ### Authors
 Lauren Okada  
 Lucas T. Graybuck  
