@@ -1,4 +1,4 @@
-# Reproducible analysis of T cell VRd treatment TEA-seq data
+# Reproducible analysis of T cell VRd treatment TEA-seq
 
 This repository houses Jupyter Notebooks that are used for reproducible analysis of T cells treated 
 with bortezomib, lenalidomide, or dexamethasone and profiled using the trimodal single-cell assay TEA-seq.
