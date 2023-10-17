@@ -1,0 +1,13 @@
+treatment,timepoint,treat_time,treat_color,treat_order
+lenalidomide,72,lenalidomide_72,#4F8886,10
+bortezomib,72,bortezomib_72,#F76E11,7
+dmso,72,dmso_72,#000000,4
+dexamethasone,24,dexamethasone_24,#8D9EFF,12
+lenalidomide,24,lenalidomide_24,#59C1BD,9
+bortezomib,24,bortezomib_24,#FF9F45,6
+dmso,24,dmso_24,#9C9C9C,3
+dexamethasone,4,dexamethasone_4,#B9E0FF,11
+lenalidomide,4,lenalidomide_4,#CFF5E7,8
+bortezomib,4,bortezomib_4,#FFBC80,5
+dmso,4,dmos_4,#C0C0C0,2
+untreated,0,untreated_0,#DDDDDD,1
