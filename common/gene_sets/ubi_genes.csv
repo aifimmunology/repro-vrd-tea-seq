@@ -1,0 +1,836 @@
+gene,alt_name,gene_group,source,notes,y_offset
+UBA1,,E1: Ub Activating,https://www.genenames.org/data/genegroup/#!/group/100,,4
+UBA2,,E1: Ub Activating,https://www.genenames.org/data/genegroup/#!/group/100,,4
+UBA3,,E1: Ub Activating,https://www.genenames.org/data/genegroup/#!/group/100,,4
+UBA5,,E1: Ub Activating,https://www.genenames.org/data/genegroup/#!/group/100,,4
+MOCS3,UBA4,E1: Ub Activating,https://www.genenames.org/data/genegroup/#!/group/100,,4
+UBA6,,E1: Ub Activating,https://www.genenames.org/data/genegroup/#!/group/100,,4
+UBA7,,E1: Ub Activating,https://www.genenames.org/data/genegroup/#!/group/100,,4
+ATG7,,E1: Ub Activating,https://www.genenames.org/data/genegroup/#!/group/100,,4
+NAE1,,E1: Ub Activating,https://www.genenames.org/data/genegroup/#!/group/100,,4
+SAE,,E1: Ub Activating,https://www.genenames.org/data/genegroup/#!/group/100,,4
+AKTIP,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+BIRC6,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2A,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2B,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2C,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2D1,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2D2,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2D3,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2D4,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2E1,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2E2,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2E3,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2E4P,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2F,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2G1,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2G2,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2H,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2I,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2J1,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2J2,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2K,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2L1,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2L2,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2L3,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2L4,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2L5,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2L6,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2M,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2N,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2NL,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2Q1,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2Q2,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+CDC34,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2R2,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2S,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2T,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2U,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2V1,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2V2,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2W,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+UBE2Z,,E2: Ub Conjugating,https://www.genenames.org/data/genegroup/#!/group/102,,3
+AFF4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+AMFR,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ANAPC11,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ANKIB1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+AREL1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ARIH1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ARIH2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+BARD1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+BFAR,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+BIRC2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+BIRC3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+BIRC7,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+BIRC8,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+BMI1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+BRAP,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+BRCA1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+CBL,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+CBLB,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+CBLC,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+CBLL1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+IHO1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+CCNB1IP1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+CGRRF1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+CHFR,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+CNOT4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+CUL9,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZFTRAF1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+DCST1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+DTX1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+DTX2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+DTX3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+DTX3L,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+DTX4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+DZIP3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+E4F1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+FANCL,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+G2E3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HACE1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HECTD1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HECTD2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HECTD3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HECTD4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HECW1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HECW2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HERC1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HERC2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HERC3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HERC4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HERC5,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HERC6,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HLTF,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+HUWE1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+IRF2BP1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+IRF2BP2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+IRF2BPL,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ITCH,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+KCMF1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+KMT2C,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+KMT2D,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+LNX1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+LNX2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+LONRF1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+LONRF2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+LONRF3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+LRSAM1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+LTN1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MAEA,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MAP3K1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MARCHF1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MARCHF10,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MARCHF11,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MARCHF2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MARCHF3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MARCHF4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MARCHF5,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MARCHF6,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MARCHF7,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MARCHF8,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MARCHF9,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MDM2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MDM4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MECOM,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MEX3A,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MEX3B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MEX3C,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MEX3D,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MGRN1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MIB1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MIB2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MID1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MID2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MKRN1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MKRN2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MKRN3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MKRN4P,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MNAT1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MSL2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MUL1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MYCBP2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+MYLIP,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+NEDD4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+NEDD4L,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+NEURL1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+NEURL1B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+NEURL3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+NFX1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+NFXL1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+NHLRC1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+NOSIP,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+NSMCE1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PRKN,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PCGF1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PCGF2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PCGF3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PCGF5,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PCGF6,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PDZRN3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PDZRN4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PELI1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PELI2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PELI3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PEX10,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PEX12,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PEX2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PHF7,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PHRF1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PJA1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PJA2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PLAG1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PLAGL1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PML,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PPIL2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+PRPF19,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RAD18,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RAG1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RAPSN,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RBBP6,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RBCK1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RBX1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RC3H1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RC3H2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RCHY1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RFFL,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RFPL1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RFPL2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RFPL3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RFPL4A,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RFPL4AL1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RFPL4B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+COP1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RFWD3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RING1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RLF,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RLIM,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RMND5A,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RMND5B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF10,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF103,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF11,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF111,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF112,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF113A,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF113B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF114,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF115,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF121,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF122,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF123,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF125,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF126,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF128,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF13,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF130,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF133,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF135,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF138,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF139,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF14,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF141,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF144A,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF144B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF145,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF146,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF148,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF149,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF150,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF151,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF152,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF157,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ARK2C,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF166,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF167,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF168,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF169,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF17,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF170,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF175,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF180,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF181,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF182,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF183,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF185,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF186,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF187,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF19A,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF19B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF20,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF207,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF208,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF212,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF212B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF213,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF214,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF215,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF216,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF217,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+OBI1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF220,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF222,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF223,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF224,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF225,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF24,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF25,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF26,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF31,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF32,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF34,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF38,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF39,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF40,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF41,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF43,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF44,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF5,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF6,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF7,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNF8,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNFT1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RNFT2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+RSPRY1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+SCAF11,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+SH3RF1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+SH3RF2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+SH3RF3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+SHPRH,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+SIAH1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+SIAH2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+SIAH3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+SMURF1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+SMURF2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+STUB1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+SYVN1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TMEM129,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TOPORS,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRAF2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TANK,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRAF3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRAF4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRAF5,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRAF6,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRAF7,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRAIP,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM10,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM11,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM13,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM15,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM17,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM21,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM22,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM23,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM24,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM25,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM26,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM27,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM28,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM31,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM32,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM33,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM34,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM35,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM36,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM37,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM38,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM39,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM40,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM41,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM42,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM43,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM43B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM45,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM46,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM47,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM48,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM49,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM49B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM49C,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM49D1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM5,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM50,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM51,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM52,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM54,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM55,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM56,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM58,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM59,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM6,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM60,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM61,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM62,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM63,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM64,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM64B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM64C,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM65,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM67,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM68,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM69,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM7,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM71,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM72,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM73,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM74,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM75,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM77,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM8,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIM9,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIML1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIML2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TRIP12,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+TTC3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBE3A,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBE3B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBE3C,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBE3D,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBE4A,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBE4B,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBOX5,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBR1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBR2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBR3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBR4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBR5,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UBR7,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UHRF1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UHRF2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UNK,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+UNKL,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+VPS11,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+VPS18,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+VPS41,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+VPS8,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+WDR59,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+WDSUB1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+WWP1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+WWP2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+XIAP,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZBTB12,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZFP91,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZFPL1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZNF280A,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZNF341,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZNF511,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZNF521,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZNF598,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+CBLL2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZNRF1,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZNRF2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZNRF3,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZNRF4,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZSWIM2,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ZXDC,,E3: Ub Ligase,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/,Symbols converted via HGNC Multi-Symbol Checker,2
+ABTB1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ABTB2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ANKFY1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ARMC5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB10,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB11,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB13,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB14,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB15,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB16,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB17,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB18,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB7,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB8,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ASB9,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ATRX,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BACH1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BACH2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BCL6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BCL6B,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BTBD1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BTBD10,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ABTB3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BTBD17,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BTBD2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BTBD3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BTBD6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BTBD7,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BTBD8,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BTBD9,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+BTRC,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+CCIN,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+CCNF,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+CISH,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+CPSF1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+CUL1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+CUL2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+CUL3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+CUL4A,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+CUL4B,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+CUL5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+CUL7,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+DDB1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+DPF1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ECT2L,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ENC1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL12,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL13,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL14,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL15,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL16,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL18,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL20,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL7,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL8,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO10,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO11,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO15,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO16,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO17,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBH1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO21,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO22,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO24,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO25,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO27,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO28,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO30,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO31,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO32,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO33,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO34,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO36,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO38,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO40,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO41,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO42,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO44,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO45,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO46,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO7,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO8,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXO9,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXW11,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXW2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXW4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXW5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXW7,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXW8,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+GAN,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+GMCL1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+GTF2H2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+GZF1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+HIC1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+HIC2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+IBTK,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+IPP,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+IVNS1ABP,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KBTBD11,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KBTBD12,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KBTBD2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KBTBD3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KBTBD4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KBTBD6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KBTBD7,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KBTBD8,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL29,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNA1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNA10,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNA2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNA3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNA4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNA5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNA6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNA7,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNB1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNB2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNC1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNC2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNC3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNC4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCND1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCND2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCND3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNG1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNG3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNRG,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNS1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNS2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNS3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCNV1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD10,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD12,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD13,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD14,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD15,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD16,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD17,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD20,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD21,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD7,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD8,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KCTD9,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KDM2A,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KDM2B,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KEAP1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL10,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL11,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL12,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL13,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL14,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL15,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL17,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL18,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL20,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL21,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL22,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL23,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL24,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL25,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL26,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL28,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL30,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL31,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL32,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL34,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL36,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL38,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL40,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL41,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL42,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL7,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL8,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+KLHL9,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+LGALS3BP,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+FBXL9P,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+LZTR1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+MYNN,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+NACC1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+NACC2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+NEURL2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+OSTM1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+OTUD7A,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+OTUD7B,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+PATZ1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+RAB40A,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+RAB40AL,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+RAB40B,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+RAB40C,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+RABGEF1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+RCBTB1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+RCBTB2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+RHOBTB1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+RHOBTB2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+RHOBTB3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SF3B3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SHKBP1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SKP2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SLX4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SOCS1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SOCS2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SOCS3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SOCS4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SOCS6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SOCS5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SOCS6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SOCS7,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SOCS4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SPOP,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SPOPL,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SPSB1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SPSB2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SPSB3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+SPSB4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ELOA,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+TNFAIP1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+TNFAIP3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+TULP4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+VHL,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+NSD2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+WSB1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+WSB2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB1,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB10,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB11,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB14,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB16,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB17,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB18,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB2,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB20,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB21,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB22,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB24,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB25,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB26,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB32,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB33,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB37,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB38,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB39,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB40,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB41,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB43,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB44,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB45,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB46,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB48,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB49,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB7A,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB7B,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB7C,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB8A,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZBTB9,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZFAND3,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZFAND4,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZFAND5,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZFAND6,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ZNF131,,E3a: Ub Ligase Accessory,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/E3-ligases/RelatedProteins.html,Symbols converted via HGNC Multi-Symbol Checker,1
+ATXN3,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+ATXN3L,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+BAP1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+BRCC3,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+COPS5,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+COPS6,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+CYLD,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+DESI1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+DESI2,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+EIF3F,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+EIF3H,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+JOSD1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+JOSD2,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+MPND,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+MYSM1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+OTUB1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+OTUB2,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+OTUD1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+OTUD3,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+OTUD4,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+OTUD5,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+OTUD6A,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+OTUD6B,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+OTUD7A,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+OTUD7B,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+OTULIN,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+PAN2,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+PARP11,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+PRPF8,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+PSMD14,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+PSMD7,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+SENP1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+SENP2,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+SENP3,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+SENP5,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+SENP6,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+SENP7,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+SENP8,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+STAMBP,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+STAMBPL1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+UCHL1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+UCHL3,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+UCHL5,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP10,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP11,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP12,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP12P1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP13,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP14,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP15,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP16,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L10,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L11,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L12,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L13,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L15,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L17,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L18,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L19,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L20,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L21,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L22,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L3,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L4,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L5,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L7,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP17L8,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP18,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP19,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP2,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP20,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP21,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP22,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP24,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP25,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP26,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP27X,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP28,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP29,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP3,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP30,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP31,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP48,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP32,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP33,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP34,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP35,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP36,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP37,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP38,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP39,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP4,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP40,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP41P,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP42,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP43,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP44,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP45,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP46,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP47,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP48,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP49,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP5,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP50,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP51,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP53,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP54,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP6NL,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP7,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP8,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP9X,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USP9Y,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+USPL1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+VCPIP1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+YOD1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0
+ZRANB1,,DUB: De-Ub Enzyme,https://esbl.nhlbi.nih.gov/Databases/KSBP2/Targets/Lists/DUBs/,Symbols converted via HGNC Multi-Symbol Checker,0

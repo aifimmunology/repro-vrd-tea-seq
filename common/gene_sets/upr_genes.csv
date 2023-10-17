@@ -1,0 +1,90 @@
+upr_pathway,gene,alt_name,y_offset,y_pos
+Key regulators,ATF6,,4,94
+Key regulators,EIF2AK3,PERK,4,93
+Key regulators,ERN1,IRE1a,4,92
+Key regulators,HSPA5,BiP/GRP78,4,91
+Key regulators,XBP1,,4,90
+PERK regulates gene expression,ASNS,,3,88
+PERK regulates gene expression,ATF3,,3,87
+PERK regulates gene expression,CCL2,,3,86
+PERK regulates gene expression,CEBPB,,3,85
+PERK regulates gene expression,CEBPG,,3,84
+PERK regulates gene expression,CXCL8,,3,83
+PERK regulates gene expression,DCP2,,3,82
+PERK regulates gene expression,DIS3,,3,81
+PERK regulates gene expression,EIF2S1,,3,80
+PERK regulates gene expression,EIF2S2,,3,79
+PERK regulates gene expression,EIF2S3,,3,78
+PERK regulates gene expression,EXOSC1,,3,77
+PERK regulates gene expression,EXOSC2,,3,76
+PERK regulates gene expression,EXOSC3,,3,75
+PERK regulates gene expression,EXOSC4,,3,74
+PERK regulates gene expression,EXOSC5,,3,73
+PERK regulates gene expression,EXOSC6,,3,72
+PERK regulates gene expression,EXOSC7,,3,71
+PERK regulates gene expression,EXOSC8,,3,70
+PERK regulates gene expression,EXOSC9,,3,69
+PERK regulates gene expression,HERPUD1,,3,68
+PERK regulates gene expression,IGFBP1,,3,67
+PERK regulates gene expression,IL8,,3,66
+PERK regulates gene expression,KHSRP,,3,65
+PERK regulates gene expression,PARN,,3,64
+ATF6/PERK ,ATF4,,2,62
+ATF6/PERK ,DDIT3,CHOP,2,61
+ATF6/PERK ,NFYA,,2,60
+ATF6/PERK ,NFYB,,2,59
+ATF6/PERK ,NFYC,,2,58
+ATF6 (ATF6-alpha) activates chaperones,CALR,,1,56
+ATF6 (ATF6-alpha) activates chaperones,HSP90B1,,1,55
+ATF6 (ATF6-alpha) activates chaperones,MBTPS1,,1,54
+ATF6 (ATF6-alpha) activates chaperones,MBTPS2,,1,53
+IRE1alpha activates chaperones,ACADVL,,0,50
+IRE1alpha activates chaperones,ADD1,,0,49
+IRE1alpha activates chaperones,ARFGAP1,,0,48
+IRE1alpha activates chaperones,ATP6V0D1,,0,47
+IRE1alpha activates chaperones,ATPV0D1,,0,46
+IRE1alpha activates chaperones,C19orf10,,0,45
+IRE1alpha activates chaperones,CTDSP2,,0,44
+IRE1alpha activates chaperones,CUL7,,0,43
+IRE1alpha activates chaperones,CXXC1,,0,42
+IRE1alpha activates chaperones,DCTN1,,0,41
+IRE1alpha activates chaperones,DDX11,,0,40
+IRE1alpha activates chaperones,DNAJB11,,0,39
+IRE1alpha activates chaperones,DNAJB9,,0,38
+IRE1alpha activates chaperones,DNAJC3,,0,37
+IRE1alpha activates chaperones,EDEM1,,0,36
+IRE1alpha activates chaperones,EXTL1,,0,35
+IRE1alpha activates chaperones,EXTL2,,0,34
+IRE1alpha activates chaperones,EXTL3,,0,33
+IRE1alpha activates chaperones,FKBP14,,0,32
+IRE1alpha activates chaperones,GFPT1,,0,31
+IRE1alpha activates chaperones,GOSR2,,0,30
+IRE1alpha activates chaperones,GSK3A,,0,29
+IRE1alpha activates chaperones,HDGF,,0,28
+IRE1alpha activates chaperones,HYOU1,,0,27
+IRE1alpha activates chaperones,KDELR3,,0,26
+IRE1alpha activates chaperones,KLHDC3,,0,25
+IRE1alpha activates chaperones,LMNA,,0,24
+IRE1alpha activates chaperones,MYDGF,,0,23
+IRE1alpha activates chaperones,PDIA5,,0,22
+IRE1alpha activates chaperones,PDIA6,,0,21
+IRE1alpha activates chaperones,PLA2G4B,,0,20
+IRE1alpha activates chaperones,PPP2R5B,,0,19
+IRE1alpha activates chaperones,PREB,,0,18
+IRE1alpha activates chaperones,SEC31A,,0,17
+IRE1alpha activates chaperones,SERP1,,0,16
+IRE1alpha activates chaperones,SHC1,,0,15
+IRE1alpha activates chaperones,SRPR,,0,14
+IRE1alpha activates chaperones,SRPRA,,0,13
+IRE1alpha activates chaperones,SRPRB,,0,12
+IRE1alpha activates chaperones,SSR1,,0,11
+IRE1alpha activates chaperones,SULT1A3,,0,10
+IRE1alpha activates chaperones,SYVN1,,0,9
+IRE1alpha activates chaperones,TATDN2,,0,8
+IRE1alpha activates chaperones,TLN1,,0,7
+IRE1alpha activates chaperones,TPP1,,0,6
+IRE1alpha activates chaperones,TSPYL2,,0,5
+IRE1alpha activates chaperones,WFS1,,0,4
+IRE1alpha activates chaperones,WIPI1,,0,3
+IRE1alpha activates chaperones,YIF1A,,0,2
+IRE1alpha activates chaperones,ZBTB17,,0,1

@@ -1,0 +1,66 @@
+gene,alt_name,branch,y_offset,group
+CD3E,CD3ε,Initial TCR Response,5,TCR complex
+CD3D,CD3δ,Initial TCR Response,5,TCR complex
+TRBC1,TCRβ,Initial TCR Response,5,TCR complex
+TRAC,TCRɑ,Initial TCR Response,5,TCR complex
+CD3G,CD3γ,Initial TCR Response,5,TCR complex
+TRAD,TCRδ,Initial TCR Response,5,TCR complex
+CD247,CD3ζ,Initial TCR Response,5,TCR complex
+CD4,,Initial TCR Response,5,TCR Coreceptor
+CD8A,CD8ɑ,Initial TCR Response,5,TCR Coreceptor
+CD8B,CD8β,Initial TCR Response,5,TCR Coreceptor
+LCK,,Initial TCR Response,5,ITAM-targeting Kinase
+FYN,,Initial TCR Response,5,ITAM-targeting Kinase
+PTPRJ,CD148,Initial TCR Response,5,TCR Activator
+PTPRC,CD45,Initial TCR Response,5,TCR Activator
+CSK,,Initial TCR Response,5,TCR Negative Regulator
+PTPN22,Lyp/Pep,Initial TCR Response,5,TCR Negative Regulator
+PAG1,,Initial TCR Response,5,TCR Regulator
+ZAP70,,Initial TCR Response,5,TCR Output
+LCP2,SLP-76,Initial TCR Response,5,Phospholipase C complex
+LAT,,Initial TCR Response,5,Phospholipase C complex
+GRAP2,GADS,Initial TCR Response,5,Phospholipase C complex
+ITK,,Initial TCR Response,5,Phospholipase C complex
+TXK,,Initial TCR Response,5,Phospholipase C complex
+PLCG1,PLC-γ1,Initial TCR Response,5,Phospholipase C complex
+PLCG2,PLC-γ2,Initial TCR Response,5,Phospholipase C complex
+PRKCQ,PKC-Θ,PKCθ–IKK–NF-κβ pathway,4,CBM complex activator
+BCL10,,PKCθ–IKK–NF-κβ pathway,4,CBM complex
+PDPK1,PDK1,PKCθ–IKK–NF-κβ pathway,4,CBM complex activator
+CARD11,CARMA1,PKCθ–IKK–NF-κβ pathway,4,CBM complex
+MALT1,,PKCθ–IKK–NF-κβ pathway,4,CBM complex
+TRAF6,,PKCθ–IKK–NF-κβ pathway,4,CBM complex
+IKBKB,IKKβ,PKCθ–IKK–NF-κβ pathway,4,IKb Kinase complex
+CHUK,IKKɑ,PKCθ–IKK–NF-κβ pathway,4,IKb Kinase complex
+IKBKG,IKKγ,PKCθ–IKK–NF-κβ pathway,4,IKb Kinase complex
+NFKB1,NF-κB,PKCθ–IKK–NF-κβ pathway,4,NFKB complex
+RELA,p65,PKCθ–IKK–NF-κβ pathway,4,NFKB complex
+NFKBIA,IκBɑ,PKCθ–IKK–NF-κβ pathway,4,NFKB complex
+NFATC1,,Ca2+–calcineurin–NFAT pathway,3,Ca-calcineurin-NFAT
+PPP3CA,,Ca2+–calcineurin–NFAT pathway,3,Ca-calcineurin-NFAT
+PPP3CB,,Ca2+–calcineurin–NFAT pathway,3,Ca-calcineurin-NFAT
+PPP3CC,,Ca2+–calcineurin–NFAT pathway,3,Ca-calcineurin-NFAT
+JUN,c-Jun,Ca2+–calcineurin–NFAT pathway,3,Ca-calcineurin-NFAT
+FOS,c-Fos,Ca2+–calcineurin–NFAT pathway,3,Ca-calcineurin-NFAT
+IL2,,Ca2+–calcineurin–NFAT pathway,3,Ca-calcineurin-NFAT
+DGKA,DGKɑ,Ca2+–calcineurin–NFAT pathway,3,Ca-calcineurin-NFAT
+RASGRP1,,RASGRP1–RAS–ERK1/2–AP1 pathway,2,RASGRP1-RAS-ERK1/2-AP1
+SOS1,,RASGRP1–RAS–ERK1/2–AP1 pathway,2,RASGRP1-RAS-ERK1/2-AP1
+RAF1,c-RAF,RASGRP1–RAS–ERK1/2–AP1 pathway,2,RASGRP1-RAS-ERK1/2-AP1
+MAP2K1,MEK1,RASGRP1–RAS–ERK1/2–AP1 pathway,2,RASGRP1-RAS-ERK1/2-AP1
+MAP2K2,MEK2,RASGRP1–RAS–ERK1/2–AP1 pathway,2,RASGRP1-RAS-ERK1/2-AP1
+MAPK3,ERK1,RASGRP1–RAS–ERK1/2–AP1 pathway,2,RASGRP1-RAS-ERK1/2-AP1
+MAPK1,ERK2,RASGRP1–RAS–ERK1/2–AP1 pathway,2,RASGRP1-RAS-ERK1/2-AP1
+ELK1,,RASGRP1–RAS–ERK1/2–AP1 pathway,2,RASGRP1-RAS-ERK1/2-AP1
+MAPK14,p38ɑ,p38 and JNK pathways,1,p38
+MAP3K7,TAK1,p38 and JNK pathways,1,JNK activation complex
+MAP2K7,MKK7,p38 and JNK pathways,1,JNK activation complex
+MAPK9,JNK2,p38 and JNK pathways,1,JNK activation complex
+MAPK8,JNK1,p38 and JNK pathways,1,JNK activation complex
+AKT1S1,,mTORC pathways,0,mTORC1 complex
+MLST8,,mTORC pathways,0,mTORC1 complex
+MTOR,,mTORC pathways,0,mTORC1 complex
+RPTOR,,mTORC pathways,0,mTORC1 complex
+MAPKAP1,,mTORC pathways,0,mTORC2 complex
+PRR5,,mTORC pathways,0,mTORC2 complex
+RICTOR,,mTORC pathways,0,mTORC2 complex

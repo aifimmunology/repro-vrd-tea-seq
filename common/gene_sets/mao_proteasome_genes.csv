@@ -1,0 +1,64 @@
+complex,gene,y_offset,order,gene_ypos
+CP 20S alpha ring,PSMA1,8,63,71
+CP 20S alpha ring,PSMA2,8,62,70
+CP 20S alpha ring,PSMA3,8,61,69
+CP 20S alpha ring,PSMA4,8,60,68
+CP 20S alpha ring,PSMA5,8,59,67
+CP 20S alpha ring,PSMA6,8,58,66
+CP 20S alpha ring,PSMA7,8,57,65
+CP 20S beta ring,PSMB1,7,56,63
+CP 20S beta ring,PSMB2,7,55,62
+CP 20S beta ring,PSMB3,7,54,61
+CP 20S beta ring,PSMB4,7,53,60
+CP 20S beta ring,PSMB5,7,52,59
+CP 20S beta ring,PSMB6,7,51,58
+CP 20S beta ring,PSMB7,7,50,57
+Immunoproteasome,PSMB8,6,49,55
+Immunoproteasome,PSMB9,6,48,54
+Immunoproteasome,PSMB10,6,47,53
+Thymoproteasome,PSMB11,6,46,52
+RP 19S base,PSMC1,5,45,50
+RP 19S base,PSMC2,5,44,49
+RP 19S base,PSMC3,5,43,48
+RP 19S base,PSMC4,5,42,47
+RP 19S base,PSMC5,5,41,46
+RP 19S base,PSMC6,5,40,45
+RP 19S base,PSMD1,5,39,44
+RP 19S base,PSMD2,5,38,43
+RP 19S base,PSMD4,5,37,42
+RP 19S base,ADRM1,5,36,41
+RP 19S lid,PSMD3,4,35,39
+RP 19S lid,PSMD6,4,34,38
+RP 19S lid,PSMD7,4,33,37
+RP 19S lid,PSMD8,4,32,36
+RP 19S lid,PSMD9,4,31,35
+RP 19S lid,PSMD11,4,30,34
+RP 19S lid,PSMD12,4,29,33
+RP 19S lid,PSMD13,4,28,32
+RP 19S lid,PSMD14,4,27,31
+PA28 11S,PSME1,3,26,29
+PA28 11S,PSME2,3,25,28
+PA28 11S,PSME3,3,24,27
+PA200,PSME4,2,23,25
+CP-associated,PSMG1,1,22,23
+CP-associated,PSMG2,1,21,22
+CP-associated,PSMG3,1,20,21
+CP-associated,PSMG4,1,19,20
+CP-associated,POMP,1,18,19
+RP-associated,RAD23A,0,17,17
+RP-associated,RAD23B,0,16,16
+RP-associated,UBQLN1,0,15,15
+RP-associated,UBQLN2,0,14,14
+RP-associated,UBQLN3,0,13,13
+RP-associated,UBQLN4,0,12,12
+RP-associated,DDI1,0,11,11
+RP-associated,ZFAND5,0,10,10
+RP-associated,USP14,0,9,9
+RP-associated,UCHL5,0,8,8
+RP-associated,UBE3C,0,7,7
+RP-associated,PRKN,0,6,6
+RP-associated,ECPAS,0,5,5
+RP-associated,PSMF1,0,4,4
+RP-associated,PSMD10,0,3,3
+RP-associated,PSMD5,0,2,2
+RP-associated,PAAF1,0,1,1
