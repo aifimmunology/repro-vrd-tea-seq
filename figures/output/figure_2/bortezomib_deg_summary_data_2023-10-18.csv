@@ -1,0 +1,19 @@
+fg,timepoint,aifi_cell_type,n_sample,n_sig,n_up,n_dn,cell_type_label,cell_type_color,cell_type_xpos,cell_type_ypos,treat_time,max_val
+bortezomib,4,t_cd4_cm,648,0,0,0,CD4 CM,#00AEEF,2,6,bortezomib_4,3755
+bortezomib,4,t_cd4_em,180,0,0,0,CD4 EM,#1C75BC,3,5,bortezomib_4,3755
+bortezomib,4,t_cd4_naive,1352,0,0,0,CD4 Naive,#93A7D1,1,7,bortezomib_4,3755
+bortezomib,4,t_cd4_treg,78,0,0,0,CD4 Treg,#E57A93,4,4,bortezomib_4,3755
+bortezomib,4,t_cd8_memory,163,0,0,0,CD8 Memory,#009444,6,2,bortezomib_4,3755
+bortezomib,4,t_cd8_naive,451,0,0,0,CD8 Naive,#8DC63F,5,3,bortezomib_4,3755
+bortezomib,24,t_cd4_cm,648,804,449,355,CD4 CM,#00AEEF,2,6,bortezomib_24,3755
+bortezomib,24,t_cd4_em,180,202,138,64,CD4 EM,#1C75BC,3,5,bortezomib_24,3755
+bortezomib,24,t_cd4_naive,1352,451,264,187,CD4 Naive,#93A7D1,1,7,bortezomib_24,3755
+bortezomib,24,t_cd4_treg,78,31,25,6,CD4 Treg,#E57A93,4,4,bortezomib_24,3755
+bortezomib,24,t_cd8_memory,163,408,227,181,CD8 Memory,#009444,6,2,bortezomib_24,3755
+bortezomib,24,t_cd8_naive,451,768,413,355,CD8 Naive,#8DC63F,5,3,bortezomib_24,3755
+bortezomib,72,t_cd4_cm,648,4950,2748,2202,CD4 CM,#00AEEF,2,6,bortezomib_72,3755
+bortezomib,72,t_cd4_em,180,2540,1407,1133,CD4 EM,#1C75BC,3,5,bortezomib_72,3755
+bortezomib,72,t_cd4_naive,1352,6832,3755,3077,CD4 Naive,#93A7D1,1,7,bortezomib_72,3755
+bortezomib,72,t_cd4_treg,78,657,303,354,CD4 Treg,#E57A93,4,4,bortezomib_72,3755
+bortezomib,72,t_cd8_memory,163,1674,850,824,CD8 Memory,#009444,6,2,bortezomib_72,3755
+bortezomib,72,t_cd8_naive,451,4407,2366,2041,CD8 Naive,#8DC63F,5,3,bortezomib_72,3755
