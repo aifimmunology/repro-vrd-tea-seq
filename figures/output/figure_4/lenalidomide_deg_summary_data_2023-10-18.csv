@@ -1,0 +1,19 @@
+fg,timepoint,aifi_cell_type,n_sample,n_sig,n_up,n_dn,cell_type_label,cell_type_color,cell_type_xpos,cell_type_ypos,treat_time,max_val
+lenalidomide,4,t_cd4_cm,648,183,144,39,CD4 CM,#00AEEF,2,6,lenalidomide_4,570
+lenalidomide,4,t_cd4_em,180,25,15,10,CD4 EM,#1C75BC,3,5,lenalidomide_4,570
+lenalidomide,4,t_cd4_naive,1352,292,210,82,CD4 Naive,#93A7D1,1,7,lenalidomide_4,570
+lenalidomide,4,t_cd4_treg,126,0,0,0,CD4 Treg,#E57A93,4,4,lenalidomide_4,570
+lenalidomide,4,t_cd8_memory,163,1,1,0,CD8 Memory,#009444,6,2,lenalidomide_4,570
+lenalidomide,4,t_cd8_naive,451,138,100,38,CD8 Naive,#8DC63F,5,3,lenalidomide_4,570
+lenalidomide,24,t_cd4_cm,648,356,215,141,CD4 CM,#00AEEF,2,6,lenalidomide_24,570
+lenalidomide,24,t_cd4_em,180,25,19,6,CD4 EM,#1C75BC,3,5,lenalidomide_24,570
+lenalidomide,24,t_cd4_naive,1352,1046,570,476,CD4 Naive,#93A7D1,1,7,lenalidomide_24,570
+lenalidomide,24,t_cd4_treg,126,0,0,0,CD4 Treg,#E57A93,4,4,lenalidomide_24,570
+lenalidomide,24,t_cd8_memory,163,8,7,1,CD8 Memory,#009444,6,2,lenalidomide_24,570
+lenalidomide,24,t_cd8_naive,451,285,161,124,CD8 Naive,#8DC63F,5,3,lenalidomide_24,570
+lenalidomide,72,t_cd4_cm,648,75,58,17,CD4 CM,#00AEEF,2,6,lenalidomide_72,570
+lenalidomide,72,t_cd4_em,180,8,5,3,CD4 EM,#1C75BC,3,5,lenalidomide_72,570
+lenalidomide,72,t_cd4_naive,1352,454,265,189,CD4 Naive,#93A7D1,1,7,lenalidomide_72,570
+lenalidomide,72,t_cd4_treg,126,0,0,0,CD4 Treg,#E57A93,4,4,lenalidomide_72,570
+lenalidomide,72,t_cd8_memory,163,1,1,0,CD8 Memory,#009444,6,2,lenalidomide_72,570
+lenalidomide,72,t_cd8_naive,451,84,55,29,CD8 Naive,#8DC63F,5,3,lenalidomide_72,570
