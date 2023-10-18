@@ -1,0 +1,13 @@
+fg,timepoint,aifi_cell_type,n_sig,n_up,n_dn,cell_type_label,cell_type_color,cell_type_xpos,cell_type_ypos,treat_time,max_val
+dexamethasone,4,t_cd4_cm,4,2,2,CD4 CM,#00AEEF,2,6,dexamethasone_4,10
+dexamethasone,4,t_cd4_em,4,2,2,CD4 EM,#1C75BC,3,5,dexamethasone_4,10
+dexamethasone,4,t_cd4_naive,5,2,3,CD4 Naive,#93A7D1,1,7,dexamethasone_4,10
+dexamethasone,4,t_cd4_treg,2,2,0,CD4 Treg,#E57A93,4,4,dexamethasone_4,10
+dexamethasone,4,t_cd8_memory,0,0,0,CD8 Memory,#009444,6,2,dexamethasone_4,10
+dexamethasone,4,t_cd8_naive,2,1,1,CD8 Naive,#8DC63F,5,3,dexamethasone_4,10
+dexamethasone,24,t_cd4_cm,14,4,10,CD4 CM,#00AEEF,2,6,dexamethasone_24,10
+dexamethasone,24,t_cd4_em,9,3,6,CD4 EM,#1C75BC,3,5,dexamethasone_24,10
+dexamethasone,24,t_cd4_naive,10,4,6,CD4 Naive,#93A7D1,1,7,dexamethasone_24,10
+dexamethasone,24,t_cd4_treg,5,2,3,CD4 Treg,#E57A93,4,4,dexamethasone_24,10
+dexamethasone,24,t_cd8_memory,6,2,4,CD8 Memory,#009444,6,2,dexamethasone_24,10
+dexamethasone,24,t_cd8_naive,7,2,5,CD8 Naive,#8DC63F,5,3,dexamethasone_24,10
