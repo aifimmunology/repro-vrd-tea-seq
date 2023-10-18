@@ -24,3 +24,15 @@ Notebooks related to T cell type labeling are stored in `01-cell-type-labeling/`
 ### MAST differential expression tests
 Notebooks related to the use of the MAST framework to identify differentially expressed genes (DEGs) are stored in `02-mast-deg-testing/`.
 
+### GSEA results
+Notebooks related to Gene Set Enrichment Analysis and intersections between MAST results from different conditions are stored in `03-gsea-analysis/`.
+
+### scATAC-seq analysis
+Notebooks related to analysis of scATAC-seq data and enrichment of TF motifs near DEGs are stored in `04-atac-analysis/`.
+
+### Differential epitope detection analysis
+Notebooks related to differential detection of cell surface antibodies (Antibody-derived tags, ADTs) using linear models are stored in `05-adt-lm-testing/`.
+
+## Figures
+Assembly of results into panels for use in figures are stored in the `figures/` directory. Panels and the data backing those panels are in `figures/output/figure_N` where `N` is the figure number.
+
