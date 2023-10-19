@@ -1,0 +1,105 @@
+drug,timepoint,stimulation,population,gene,gene_name,fluorophore,mfi
+DMSO,72,None,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,39708
+DMSO,72,None,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,42362
+DMSO,72,None,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,22811
+DMSO,72,None,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,36779
+DMSO,72,None,CD4,GZMB,Granzyme B,eFluor 450-A,1757
+DMSO,72,None,CD8,GZMB,GranzymeB,eFluor 450-A,2211
+DMSO,72,None,CD4,PRF1,Perforin,BV711-A,1882
+DMSO,72,None,CD8,PRF1,Perforin,Comp-BV711-A,2614
+DMSO,4,None,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,36002
+DMSO,4,None,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,35922
+DMSO,4,None,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,25550
+DMSO,4,None,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,39219
+DMSO,4,None,CD4,GZMB,Granzyme B,eFluor 450-A,1275
+DMSO,4,None,CD8,GZMB,GranzymeB,eFluor 450-A,1816
+DMSO,4,None,CD4,PRF1,Perforin,BV711-A,1359
+DMSO,4,None,CD8,PRF1,Perforin,Comp-BV711-A,2416
+Untreated,0,Baseline,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,30684
+Untreated,0,Baseline,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,31651
+Untreated,0,Baseline,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,17182
+Untreated,0,Baseline,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,27689
+Untreated,0,Baseline,CD4,GZMB,Granzyme B,eFluor 450-A,1182
+Untreated,0,Baseline,CD8,GZMB,GranzymeB,eFluor 450-A,1769
+Untreated,0,Baseline,CD4,PRF1,Perforin,BV711-A,1562
+Untreated,0,Baseline,CD8,PRF1,Perforin,Comp-BV711-A,2050
+Lenalidomide,72,None,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,13305
+Lenalidomide,72,None,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,14725
+Lenalidomide,72,None,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,6295
+Lenalidomide,72,None,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,8307
+Lenalidomide,72,None,CD4,GZMB,Granzyme B,eFluor 450-A,1698
+Lenalidomide,72,None,CD8,GZMB,GranzymeB,eFluor 450-A,2151
+Lenalidomide,72,None,CD4,PRF1,Perforin,BV711-A,1579
+Lenalidomide,72,None,CD8,PRF1,Perforin,Comp-BV711-A,2633
+Lenalidomide,4,None,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,17293
+Lenalidomide,4,None,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,17370
+Lenalidomide,4,None,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,9828
+Lenalidomide,4,None,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,12628
+Lenalidomide,4,None,CD4,GZMB,Granzyme B,eFluor 450-A,1252
+Lenalidomide,4,None,CD8,GZMB,GranzymeB,eFluor 450-A,1792
+Lenalidomide,4,None,CD4,PRF1,Perforin,BV711-A,1259
+Lenalidomide,4,None,CD8,PRF1,Perforin,Comp-BV711-A,2350
+DMSO,72,CD3/CD28,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,82481
+DMSO,72,CD3/CD28,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,76362
+DMSO,72,CD3/CD28,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,11062
+DMSO,72,CD3/CD28,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,12801
+DMSO,72,CD3/CD28,CD4,GZMB,Granzyme B,eFluor 450-A,69025
+DMSO,72,CD3/CD28,CD8,GZMB,GranzymeB,eFluor 450-A,218765
+DMSO,72,CD3/CD28,CD4,PRF1,Perforin,BV711-A,2286
+DMSO,72,CD3/CD28,CD8,PRF1,Perforin,Comp-BV711-A,4439
+DMSO,4,CD3/CD28,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,38574
+DMSO,4,CD3/CD28,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,39355
+DMSO,4,CD3/CD28,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,17467
+DMSO,4,CD3/CD28,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,28787
+DMSO,4,CD3/CD28,CD4,GZMB,Granzyme B,eFluor 450-A,1415
+DMSO,4,CD3/CD28,CD8,GZMB,GranzymeB,eFluor 450-A,2079
+DMSO,4,CD3/CD28,CD4,PRF1,Perforin,BV711-A,1477
+DMSO,4,CD3/CD28,CD8,PRF1,Perforin,Comp-BV711-A,2369
+Lenalidomide,72,CD3/CD28,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,33308
+Lenalidomide,72,CD3/CD28,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,32868
+Lenalidomide,72,CD3/CD28,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,2953
+Lenalidomide,72,CD3/CD28,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,3467
+Lenalidomide,72,CD3/CD28,CD4,GZMB,Granzyme B,eFluor 450-A,42740
+Lenalidomide,72,CD3/CD28,CD8,GZMB,GranzymeB,eFluor 450-A,136646
+Lenalidomide,72,CD3/CD28,CD4,PRF1,Perforin,BV711-A,2032
+Lenalidomide,72,CD3/CD28,CD8,PRF1,Perforin,Comp-BV711-A,4012
+Lenalidomide,4,CD3/CD28,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,19365
+Lenalidomide,4,CD3/CD28,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,19365
+Lenalidomide,4,CD3/CD28,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,4254
+Lenalidomide,4,CD3/CD28,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,6021
+Lenalidomide,4,CD3/CD28,CD4,GZMB,Granzyme B,eFluor 450-A,1275
+Lenalidomide,4,CD3/CD28,CD8,GZMB,GranzymeB,eFluor 450-A,1959
+Lenalidomide,4,CD3/CD28,CD4,PRF1,Perforin,BV711-A,1292
+Lenalidomide,4,CD3/CD28,CD8,PRF1,Perforin,Comp-BV711-A,2068
+DMSO,24,None,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,38574
+DMSO,24,None,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,38403
+DMSO,24,None,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,23385
+DMSO,24,None,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,36575
+DMSO,24,None,CD4,GZMB,Granzyme B,eFluor 450-A,1544
+DMSO,24,None,CD8,GZMB,GranzymeB,eFluor 450-A,2019
+DMSO,24,None,CD4,PRF1,Perforin,BV711-A,1376
+DMSO,24,None,CD8,PRF1,Perforin,Comp-BV711-A,2213
+Lenalidomide,24,None,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,13155
+Lenalidomide,24,None,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,14366
+Lenalidomide,24,None,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,5110
+Lenalidomide,24,None,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,6345
+Lenalidomide,24,None,CD4,GZMB,Granzyme B,eFluor 450-A,1415
+Lenalidomide,24,None,CD8,GZMB,GranzymeB,eFluor 450-A,1875
+Lenalidomide,24,None,CD4,PRF1,Perforin,BV711-A,1218
+Lenalidomide,24,None,CD8,PRF1,Perforin,Comp-BV711-A,2185
+DMSO,24,CD3/CD28,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,57457
+DMSO,24,CD3/CD28,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,61750
+DMSO,24,CD3/CD28,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,36677
+DMSO,24,CD3/CD28,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,48650
+DMSO,24,CD3/CD28,CD4,GZMB,Granzyme B,eFluor 450-A,3849
+DMSO,24,CD3/CD28,CD8,GZMB,GranzymeB,eFluor 450-A,7112
+DMSO,24,CD3/CD28,CD4,PRF1,Perforin,BV711-A,2500
+DMSO,24,CD3/CD28,CD8,PRF1,Perforin,Comp-BV711-A,3330
+Lenalidomide,24,CD3/CD28,CD4,IKZF1,Ikaros,Alexa Fluor 488-A,18940
+Lenalidomide,24,CD3/CD28,CD8,IKZF1,Ikaros,Alexa Fluor 488-A,25364
+Lenalidomide,24,CD3/CD28,CD4,IKZF3,Aiolos,Alexa Fluor 647-A,6617
+Lenalidomide,24,CD3/CD28,CD8,IKZF3,Aiolos,Alexa Fluor 647-A,8668
+Lenalidomide,24,CD3/CD28,CD4,GZMB,Granzyme B,eFluor 450-A,3426
+Lenalidomide,24,CD3/CD28,CD8,GZMB,GranzymeB,eFluor 450-A,5591
+Lenalidomide,24,CD3/CD28,CD4,PRF1,Perforin,BV711-A,2203
+Lenalidomide,24,CD3/CD28,CD8,PRF1,Perforin,Comp-BV711-A,3008
