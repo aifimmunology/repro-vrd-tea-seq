@@ -34,5 +34,7 @@ Notebooks related to analysis of scATAC-seq data and enrichment of TF motifs nea
 Notebooks related to differential detection of cell surface antibodies (Antibody-derived tags, ADTs) using linear models are stored in `05-adt-lm-testing/`.
 
 ## Figures
-Assembly of results into panels for use in figures are stored in the `figures/` directory. Panels and the data backing those panels are in `figures/output/figure_N` where `N` is the figure number.
+Assembly of results into panels for use in figures are stored in the `figures/` directory. Panels and the data backing those panels are in `figures/output/figure_N` or `figures/output/supp_figure_N` where `N` is the figure number.
 
+## Interactive Dash App
+An interactive app for exploration of DEG results was implemented in the Dash framework for Python. Code used to generate this app is linked as a submodule to this repository in `repro-vrd-tea-seq-deg-app/`.
