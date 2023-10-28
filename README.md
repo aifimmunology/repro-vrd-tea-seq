@@ -33,6 +33,9 @@ Notebooks related to analysis of scATAC-seq data and enrichment of TF motifs nea
 ### Differential epitope detection analysis
 Notebooks related to differential detection of cell surface antibodies (Antibody-derived tags, ADTs) using linear models are stored in `05-adt-lm-testing/`.
 
+### Flow cytometry data and analysis
+Data and Notebooks related to flow cytometry are stored in `06-flow-cytometry/`. This section is partially reproducible, as much of the analysis was carried out by manual gating in FlowJo. Summary statistics and outputs from FlowJo analysis are stored in `06-flow-cytometry/data/`, which are used to generate secondary analyses and figures.
+
 ## Figures
 Assembly of results into panels for use in figures are stored in the `figures/` directory. Panels and the data backing those panels are in `figures/output/figure_N` or `figures/output/supp_figure_N` where `N` is the figure number.
 
