@@ -37,7 +37,10 @@ Notebooks related to differential detection of cell surface antibodies (Antibody
 Data and Notebooks related to flow cytometry are stored in `06-flow-cytometry/`. This section is partially reproducible, as much of the analysis was carried out by manual gating in FlowJo. Summary statistics and outputs from FlowJo analysis are stored in `06-flow-cytometry/data/`, which are used to generate secondary analyses and figures.
 
 ## Figures
-Assembly of results into panels for use in figures are stored in the `figures/` directory. Panels and the data backing those panels are in `figures/output/figure_N` or `figures/output/supp_figure_N` where `N` is the figure number.
+Notebooks for assembly of results into panels for use in figures are stored in the `figures/` directory. Panels and the data backing those panels are in `figures/output/figure_N` or `figures/output/supp_figure_N` where `N` is the figure number.
+
+## Tables
+Notebooks for assembly of results into supplementary tables are stored in the `tables/` directory. Raw versions of supplementary tables are compressed using `gzip` and stored in `tables/output/`.
 
 ## Interactive Dash App
 An interactive app for exploration of DEG results was implemented in the Dash framework for Python. Code used to generate this app is linked as a submodule to this repository in `repro-vrd-tea-seq-deg-app/`.
