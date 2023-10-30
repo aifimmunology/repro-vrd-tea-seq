@@ -10,6 +10,12 @@ reproducible analysis that results in a Certificate of Reproducibility.
 Lauren Okada  
 Lucas T. Graybuck  
 
+## Manuscript
+This code is was written to perform analyses and generate figures related to the following manuscript:  
+
+**Title:** Deconvolution of the mechanisms of T cell drug response in multiple myeloma induction therapy  
+**Authors:** Lucas T. Graybuck, Lauren Okada, Wei-Ling Chang, Jessica Garber, Catalina Sakai, Morgan Weiss, Samir Rachid Zaim, Veronica Hernandez, Ziyuan He, Upaasana Krishnan, Priya Ravisankar, Julian Reading, Tao Peng, Ernie Coffey, Damian J. Green, Philip D. Greenberg, Thomas F. Bumol, Jimena Garcia, Mackenzie Kopp, Gregory L. Szeto, Xiao-Jun Li, Evan Newell, Peter J. Skene, Troy R. Torgerson.
+
 ## Contents
 
 ### Common files
