@@ -59,7 +59,7 @@ Processed data, including scRNA-seq gene counts, ADT feature counts, and scATAC-
 
 ### License
 
-The license for this package is available on Github in the file [LICENSE in this repository](https://github.com/aifimmunology/repro-vrd-tea-seq/blob/master/LICENSE)
+The license for this repository is available on Github in the file [LICENSE in this repository](https://github.com/aifimmunology/repro-vrd-tea-seq/blob/master/LICENSE)
 
 ### Level of Support
 
