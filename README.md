@@ -50,7 +50,7 @@ An interactive app for exploration of DEG results was implemented in the Dash fr
 The notebooks in this repository are designed to work within the HISE system, where raw data are stored in a central repository and are accessed using the HISE SDK. However, the input data are also available for use outside of HISE on dbGaP and GEO.
 
 ### Raw data
-Raw, FASTQ-level data from our experiments is deposited in the database of Genotypes and Phenotypes (dbGaP) at accession number [phs003430.v1.p1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003430.v1.p1).
+Raw, FASTQ-level data from our experiments are deposited in the database of Genotypes and Phenotypes (dbGaP) at accession number [phs003430.v1.p1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003430.v1.p1).
 
 ### Processed data
 Processed data, including scRNA-seq gene counts, ADT feature counts, and scATAC-seq fragment counts, are available in the Gene Expression Omnibus at accession number [GSE236422](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE236422).
