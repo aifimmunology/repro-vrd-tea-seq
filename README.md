@@ -44,3 +44,13 @@ Notebooks for assembly of results into supplementary tables are stored in the `t
 
 ## Interactive Dash App
 An interactive app for exploration of DEG results was implemented in the Dash framework for Python. Code used to generate this app is linked as a submodule to this repository in `repro-vrd-tea-seq-deg-app/`.
+
+## Legal Information
+
+### License
+
+The license for this package is available on Github in the file [LICENSE in this repository](https://github.com/aifimmunology/repro-vrd-tea-seq/blob/master/LICENSE)
+
+### Level of Support
+
+We are not currently supporting this code, but simply releasing it to the community AS IS but are not able to provide any guarantees of support. The community is welcome to submit issues, but you should not expect an active response.
