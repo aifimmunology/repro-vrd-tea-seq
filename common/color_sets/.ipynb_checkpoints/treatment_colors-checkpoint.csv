@@ -1,6 +1,0 @@
-treatment,treatment_label,treatment_color,treatment_order
-untreated,Untreated,#9C9C9C,1
-dmso,DMSO,#000000,2
-bortezomib,Bortezomib,#FF9F45,3
-lenalidomide,Lenalidomide,#59C1BD,4
-dexamethasone,Dexamethasone,#8D9EFF,5
