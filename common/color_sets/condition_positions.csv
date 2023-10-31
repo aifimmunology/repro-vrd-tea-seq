@@ -1,0 +1,17 @@
+cond,direction,pos
+bortezomib_04,dn,1
+bortezomib_04,up,2
+bortezomib_24,dn,3.5
+bortezomib_24,up,4.5
+bortezomib_72,dn,6
+bortezomib_72,up,7
+lenalidomide_04,dn,9
+lenalidomide_04,up,10
+lenalidomide_24,dn,11.5
+lenalidomide_24,up,12.5
+lenalidomide_72,dn,14
+lenalidomide_72,up,15
+dexamethasone_04,dn,17
+dexamethasone_04,up,18
+dexamethasone_24,dn,19.5
+dexamethasone_24,up,20.5
