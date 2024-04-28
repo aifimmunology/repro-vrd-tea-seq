@@ -2,3 +2,6 @@
 	path = repro-vrd-tea-seq-deg-app
 	url = https://github.com/aifimmunology/repro-vrd-tea-seq-deg-app
 	branch = development
+[submodule "common"]
+	path = common
+	url = https://github.com/aifimmunology/repro-vrd-tea-seq-common

@@ -1,8 +1,0 @@
-aifi_cell_type,cell_type_label,cell_type_color,cell_type_xpos,cell_type_ypos
-t_cd4_naive,CD4 Naive,#93A7D1,1,7
-t_cd4_cm,CD4 CM,#00AEEF,2,6
-t_cd4_em,CD4 EM,#1C75BC,3,5
-t_cd4_treg,CD4 Treg,#E57A93,4,4
-t_cd8_naive,CD8 Naive,#8DC63F,5,3
-t_cd8_memory,CD8 Memory,#009444,6,2
-t_cd8_mait,CD8 MAIT,#00562B,7,1
