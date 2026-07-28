@@ -1,11 +1,11 @@
 {
   "is_for_NOVA": false,
-  "app_title": "T cell VRd TEA-seq 4h",
-  "project_dir": "tcell-vrd-4h",
+  "app_title": "T cell VRd TEA-seq 72h",
+  "project_dir": "tcell-vrd-72h",
   "pseudobulk_levels": ["Cell Type"],
   "cell_dropdown_labs": ["Cell Type"],
   "df_path": null,
-  "uuid": "937c36a2-2edb-4392-8aae-1f36d48e42f2",
+  "uuid": "3e350630-53ce-42bf-8dd9-8a860e804424",
   "study_space_id": "40df6403-29f0-4b45-ab7d-f46d420c422e",
   "study_overview_link": "https://apps.allenimmunology.org/aifi/insights/tcell-vrd/",
   "citation_info_link": "https://apps.allenimmunology.org/aifi/insights/tcell-vrd/cite/",
@@ -63,7 +63,7 @@
     }
   ],
   "default_features": {
-    "rna": "CXCR4",
+    "rna": "MTOR",
     "celltype": "Cell Type",
     "metadata": "Treatment"
   },
@@ -88,11 +88,6 @@
         89, 
         193, 
         189
-      ],
-      "Dexamethasone": [
-        141, 
-        158, 
-        255
       ]
     }
   },
