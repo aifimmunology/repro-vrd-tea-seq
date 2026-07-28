@@ -35,5 +35,5 @@ rpds-py==0.30.0
 setuptools==80.10.1
 typing-extensions==4.15.0
 urllib3==2.6.3
-werkzeug==3.1.5
+werkzeug==3.1.6
 zipp==3.23.0
