@@ -1,0 +1,45 @@
+[build-system]
+requires = ["uv_build >= 0.7.19, <0.9.0"]
+build-backend = "uv_build"
+
+[project]
+name = "allen_dash_modules"
+version = "0.3.0"
+description = "Allen Dash Modules allow data visualization developers at the Allen Institute to use pre-made components with Python Dash to effectively and efficiently create data dashboards."
+readme = "README.md"
+requires-python = ">=3.11"
+license = {file = "LICENSE"}
+
+keywords = [
+  "Dash",
+  "Allen Institute",
+  "Object-oriented programming"
+]
+
+classifiers = [
+  "Framework :: Dash",
+  "Intended Audience :: Science/Research"
+]
+
+authors = [
+  {name = "Garth Kong", email = "garth.kong@alleninstitute.org"},
+  {name = "Lucas Graybuck", email = "lucasg@alleninstitute.org"}
+]
+
+dependencies = [
+  "dash==3.1.0",
+  "dash-ag-grid",
+  "dash-bootstrap-components",
+  "dash-iconify",
+  "jsonschema",
+  "mygene",
+  "numpy",
+  "polars",
+  "plotly"
+]
+
+[project.urls]
+Homepage = "https://github.com/allenimmunology/allen-dash-modules"
+Repository = "https://github.com/allenimmunology/allen-dash-modules"
+Changelog = "https://github.com/allenimmunology/allen-dash-modules/blob/main/CHANGELOG.md"
+# Documentation = ""

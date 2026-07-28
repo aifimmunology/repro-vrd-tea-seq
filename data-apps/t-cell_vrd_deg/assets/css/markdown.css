@@ -1,0 +1,105 @@
+:root{
+  --fg: #24292e;
+  --muted: #6a737d;
+  --border: #dfe2e5;
+  --code-bg: #f6f8fa;
+  --accent: #0366d6;
+  --radius: 6px;
+  --mono: SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Segoe UI Mono", monospace;
+  --ui: -apple-system, BlinkMacFont, "Segoe UI", "Roboto Condensed", "Helvetica Neue", Arial, sans-serif;
+}
+
+.markdown-body{
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+.markdown-body h1{ font-size: 2rem; font-family: "Roboto Condensed"; }
+.markdown-body h2{ font-size: 1.75rem; }
+.markdown-body h3{ font-size: 1.50rem; }
+.markdown-body h4{ font-size: 1.25rem; }
+
+.markdown-body p{ margin: 0; }
+.markdown-body em{ font-style: italic; }
+.markdown-body strong{ font-weight: 600; }
+.markdown-body del{ color: var(--muted); }
+
+.markdown-body a{ color: var(--accent); text-decoration: none; }
+.markdown-body a:hover{ text-decoration: underline; }
+
+.markdown-body blockquote{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.5em 1em;
+  border-radius: 3px;
+  color: var(--bs-body-color);
+  border-left: 8px solid;
+  border-left-color: var(--bs-secondary-color);
+  background: var(--bs-secondary-bg);
+}
+
+.markdown-body ul, .markdown-body ol{ margin: 0 0 1em 1.25em; }
+.markdown-body li + li{ margin-top: .25em; }
+
+.markdown-body code{ 
+  background: rgba(27,31,35,0.05);
+  padding: .2em .4em;
+  margin: 0 .1em;
+  font-size: .95em;
+  border-radius: 6px;
+  font-family: var(--mono);
+  white-space: pre-wrap;
+}
+
+.markdown-body pre{
+  margin: 0 0 1em;
+  padding: 16px;
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: auto;
+  font-family: var(--mono);
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+.markdown-body pre code{ background: transparent; padding: 0; color: var(--fg); }
+
+.code-header{
+  display:flex; align-items:center; justify-content:space-between;
+  font-size: .85em; color: var(--muted); margin-bottom: 8px;
+}
+
+.markdown-body table{
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 1em;
+  border-radius: 15px;
+  font-size: .95rem;
+}
+
+.markdown-body th, .markdown-body td{
+  border: 1px solid var(--border);
+  padding: .45em .65em;
+  text-align: left;
+}
+.markdown-body thead th{
+  font-weight: 600;
+}
+
+.markdown-body input[type=checkbox]{ transform: translateY(.1rem); margin-right: .5rem; }
+
+.markdown-body sup{
+  font-size: 0.6em;
+  vertical-align: super;
+}
+
+.markdown-body .equation{
+  display: block; padding: .6em .9em; margin: .7em 0; background: #ffffff; border: 1px solid var(--border);
+  border-radius: 6px; font-family: "Times New Roman", Times, serif; font-style: italic; text-align:center;
+}
+
+.muted{ color: var(--muted); font-size: .95em; }
+
+@media (max-width:720px){
+  .markdown-body{ padding: 20px; margin: 12px; }
+}

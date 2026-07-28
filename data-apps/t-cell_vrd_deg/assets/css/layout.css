@@ -1,0 +1,245 @@
+._dash-loading {
+  margin: auto;
+  color: transparent;
+  width: 0;
+  height: 0;
+  text-align: center;
+}
+
+/* App Header ---------------------------------------------------------------------------------- */
+.navbar {
+  background-color: transparent;
+  --bs-navbar-padding-y: none
+}
+
+.navbar-container {
+  background: #003057;
+  height: inherit;
+  color: white;
+  box-shadow: 0 1rem 1rem -1rem rgba(0, 0, 0, 0.5);
+  padding: 0.75rem;
+}
+
+/* Texts, icons, and buttons ------------------------------------------------------------------- */
+
+.iconify-in-text {
+  margin-left: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.btn-outline-primary {
+  font-size: 1rem;
+  --bs-btn-color: #3E6ACE;
+  --bs-btn-border-color: #3E6ACE;
+  --bs-btn-hover-bg: #3E6ACE;
+}
+
+.btn-close {
+  width: 0.5rem;
+  height: 0.5rem;
+}
+
+/* offcanvas ----------------------------------------------------------------------------------- */
+.offcanvas-backdrop.show, .offcanvas-backdrop {
+  opacity: 1; /* Override default opacity if needed */
+  background-color: rgba(15, 23, 42, .25); /* Example background color */
+  backdrop-filter: blur(0.15rem); /* Apply the blur effect */
+  -webkit-transition: opacity 0.30s linear;
+  transition: opacity 0.30s linear;
+}
+
+.offcanvas {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  transition: transform 0.30s ease-in-out;
+  -webkit-transition: all 0.30s ease-in-out;
+  border-radius: var(--bs-border-radius)
+}
+
+.offcanvas-help {
+  font-size: 14px;
+  width: 40rem !important;
+}
+
+.oc-settings {
+  width: 30rem !important;
+}
+
+/* tooltips and popovers ----------------------------------------------------------------------- */
+.tooltip {
+  font-size: 20px;
+  transition: opacity 0.30s linear
+}
+
+.tooltip-inner {
+  max-width: 400px;
+}
+
+.popover {
+  transition: opacity 0.30s linear;
+  box-shadow: var(--bs-box-shadow);
+  max-width: 25vw;
+  white-space: pre-line;
+}
+
+.popover-header {
+  font-size: 1.5rem
+}
+
+.popover-body {
+  font-size: 1rem
+}
+
+/* Modal --------------------------------------------------------------------------------------- */
+.modal {
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(15, 23, 42, .25);
+}
+
+.modal.backdrop {
+  transition: opacity 0.3s linear;
+}
+
+.modal.fade {
+  transition: opacity 0.3s linear;
+}
+
+.modal-header {
+  border-bottom-width: 0;
+}
+
+.modal-footer {
+  border-top-width: 0;
+}
+
+/* Alert --------------------------------------------------------------------------------------- */
+
+.alert {
+  position: fixed;
+  top: 5rem;
+  right: 1rem;
+  width: 40rem;
+  z-index: 2000;
+}
+
+/* front-end user interface -------------------------------------------------------------------- */
+.container {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  max-width: 100vw;
+  padding: 1rem;
+}
+
+.main-content {
+  width: 100%;
+  flex-grow: 1;
+}
+
+/* .main-content.expanded {
+  margin-left: 0;
+} */
+
+/* Styling for the top two windows */
+.top-windows {
+  margin-bottom: 2vh;
+}
+
+/* Styling for all windows in main area */
+.primary-window, .secondary-window, .tertiary-window {
+  border-radius: var(--bs-border-radius);
+  box-shadow: var(--bs-box-shadow);
+}
+
+/* Styling for top left and right windows */
+.primary-window, .secondary-window {
+  width: 49%;
+  display: inline-block;
+}
+
+/* Styling for the top left window */
+.primary-window {
+  margin-right: 1vw;
+}
+
+/* Styling for the bottom window */
+.tertiary-window {
+  width: 99.3%;
+}
+
+/* cards --------------------------------------------------------------------------------------- */
+.card {
+  border-color: var(--bs-border-color-translucent);
+}
+
+.card-header {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+/* tabs ---------------------------------------------------------------------------------------- */
+
+/* coordinate border with cards to get a uniform look */
+.nav-pills {
+  font-size: 1.2rem;
+  --bs-nav-pills-border-radius: var(--bs-border-radius);
+}
+
+.nav-pills .nav-link.active {
+  background-image: none; /* Remove bootstrap gradient */
+  background-color: #3E6ACE !important;
+  font-weight: bold;
+}
+
+.nav-tabs {
+  border-color: var(--bs-border-color-translucent);
+
+  border-top-left-radius: var(--bs-border-radius);
+  border-top-right-radius: var(--bs-border-radius);
+
+  border-top: var(--bs-border-width) solid var(--bs-border-color-translucent);
+  border-left: var(--bs-border-width) solid var(--bs-border-color-translucent);
+  border-right: var(--bs-border-width) solid var(--bs-border-color-translucent);
+  border-bottom: none;
+}
+
+/* list group item ----------------------------------------------------------------------------- */
+.list-group-item {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+/* Ag Grid ------------------------------------------------------------------------------------- */
+.ag-header {
+  font-size: 1.2rem;
+}
+
+.ag-body, .ag-layout-normal {
+  --ag-font-size: 1rem;
+}
+
+.ag-menu, .ag-filter-menu, .ag-ltr, .ag-popup-child, .ag-popup-positioned-under {
+  font-size: 1rem;
+}
+
+.ag-icon {
+  --ag-icon-size: 1.2rem;
+}
+
+.tab-hidden {
+  visibility: hidden; /* Keeps space but hides visually */
+  position: absolute;
+}
+
+/* dropdowns ----------------------------------------------------------------------------------- */
+.Select-clear {
+  font-size: 1rem;
+}
+
+/* Size of dropdown arrow */
+.Select-arrow {
+  border-width: 0.25rem;
+}
