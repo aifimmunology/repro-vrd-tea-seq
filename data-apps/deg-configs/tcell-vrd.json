@@ -1,0 +1,103 @@
+{
+    "app": {
+        "app_title": "T Cell VRd drug response DEGs",
+        "uuid": "a785ad80-1b15-4efc-942a-f19f46a8f680",
+        "study_space_id": "40df6403-29f0-4b45-ab7d-f46d420c422e",
+        "institute_link": "https://alleninstitute.org/division/immunology",
+        "study_overview_link": "https://apps.allenimmunology.org/aifi/insights/tcell-vrd",
+        "app_description": "Explore differential genes and pathway enrichment for transcriptional changes induced by lenalidomide, bortezomib, and dexamethasone.",
+        "modules": {
+            "help_page_content": "assets/markdown/help_page.md",
+            "startup_modal_content": "assets/markdown/startup_modal.md",
+            "schema": "tests/schema.json",
+            "gene_panel": true
+        }
+    },
+    "sc-deg-explorer": {
+        "experiment": {
+            "_comment": "What are the independent variables in your experiment? These must match column names.",
+            "covariates": [
+                "Foreground",
+                "Background",
+                "Cell Type",
+                "Timepoint"
+            ],
+            "default_features": {
+                "_comment": "Define the default value of dropdowns for each covariate. These values come from the input DE CSV file, and should represent a valid combination of conditions.",
+                "Treatment": "Dexamethasone",
+                "Cell Type": "CD4 Naive",
+                "Timepoint": "T24"
+            }
+        },
+        "preprocess": {
+            "deseq2": {
+                "file": "data/tcell-vrd_deg.csv",
+                "no-means": false,
+                "adjp_cutoff": 0.05,
+                "cell_type_annotation": {
+                    "_comment": "[file] is either a path to a csv file or empty string",
+                    "file": ""
+                },
+                "columns": {
+                    "_comment": "Please point the program to specific columns in your input CSV file.",
+                    "gene_col": "gene",
+                    "padj_col": "adjP",
+                    "lfc_col": "logFC",
+                    "mean_col": "mean"
+                }
+            },
+            "gsea": {
+                "_comment": "Point the program to GSEA results file and provide column values. Remove this code block if GSEA was not done.",
+                "file": "data/tcell-vrd_gsea.tsv",
+                "gmt": "data/hallmark_reactome-v87_gene_sets_2026-07-29.json",
+                "adjp_col": "adjP",
+                "nes_col": "NES",
+                "pathway_col": "Pathway",
+                "source_col": "Source",
+                "leading_edge_col": "leadingEdge",
+                "adjp_cutoff": 0.05,
+                "nes_cutoff": 1
+            }
+        },
+        "data": {
+            "deseq2": {
+                "specifications": {
+                    "data_type": "deg",
+                    "file_type": "parquet",
+                    "ma_plot": true,
+                    "deg_by_covariates": true,
+                    "summaries_plot": {
+                        "make": false,
+                        "const_covariates": [
+                            "Foreground",
+                            "Background",
+                            "Timepoint"
+                        ],
+                        "vary_covariate": [
+                            "Cell Type"
+                        ]
+                    }
+                },
+                "files": {
+                    "adjp": "results/deg/adjp.parquet",
+                    "log2fc": "results/deg/log2fc.parquet",
+                    "t_adjp": "results/deg/t-adjp.parquet",
+                    "t_log2fc": "results/deg/t-log2fc.parquet",
+                    "meta": "results/deg/meta.parquet",
+                    "means": "results/deg/means.parquet",
+                    "summaries": "results/deg/summaries.parquet"
+                }
+            },
+            "gsea": {
+                "specifications": {
+                    "file_type": "parquet"
+                },
+                "files": {
+                    "results": "results/gsea/results.parquet",
+                    "meta": "results/gsea/meta.parquet",
+                    "summaries": "results/gsea/summaries.parquet"
+                }
+            }
+        }
+    }
+}
