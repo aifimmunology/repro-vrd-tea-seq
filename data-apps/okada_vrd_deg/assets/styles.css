@@ -1,0 +1,80 @@
+.display-inline-block {
+    display: inline-block;
+}
+
+.instruction1 {
+    color: rgb(0, 48, 87);
+}
+
+.bghiseblue1{
+    background-color: #003056 !important;
+}
+
+.scrollable {
+   overflow-x: auto;
+   overflow-y: auto;
+}
+
+.popupwindow {
+    background-color: white !important;
+    border-top: 1px solid black !important;
+    border-left: 1px solid black !important;
+    border-right: 1px solid black !important;
+    border-bottom: 1px solid black !important;
+    white-space: pre-wrap;    
+    padding: 20px;
+    border-radius: 10px
+}
+
+.noshow{
+    display: none;
+}
+
+.unclickedBodyButtonText {
+    font-size: 20px;
+    display: inline-block;
+}
+
+.clickedBodyButtonText {
+    font-size: 20px;
+    display: inline-block;
+}
+
+.bodyButton {
+    background-color: white;
+    border-radius: 10px;
+    border:none;
+    max-width: 600;
+    color: #003056;   
+}
+    
+.bodyButton:hover {
+   background-color: #adb5bd;
+   color: #003056;  
+}
+
+.mainPanel {
+    background-color: #FFFFFF;
+    padding: 12px 24px 12px 24px;
+}
+
+.expandPanel {
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    display: block;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    background-color: #e3e2e1;
+}
+
+.padding612 {
+    padding: 6px 12px 6px 12px;
+    
+}
+
+.padding012 {
+    padding: 0px 12px 0px 12px;
+    
+}

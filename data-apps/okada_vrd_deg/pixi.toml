@@ -1,0 +1,22 @@
+[workspace]
+authors = ["Lucas Graybuck <lucasg@alleninstitute.org>"]
+channels = ["conda-forge", "bioconda"]
+name = "okada_vrd_deg"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+dash = ">=4.4.1,<5"
+dash-bootstrap-components = ">=2.0.4,<3"
+plotly = ">=6.9.0,<7"
+dash-daq = ">=0.6.0,<0.7"
+numpy = ">=2.5.2,<3"
+pandas = ">=3.0.5,<4"
+scikit-learn = ">=1.9.0,<2"
+mygene = ">=3.2.2,<4"
+jsonschema = ">=4.26.0,<5"
+polars = ">=1.43.2,<2"
+dash-iconify = ">=0.1.2,<0.2"
+pyarrow = ">=25.0.0,<26"

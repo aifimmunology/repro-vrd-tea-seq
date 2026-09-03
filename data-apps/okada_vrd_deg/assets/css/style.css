@@ -1,0 +1,55 @@
+/* header ------------------------------------------------------------------ */
+.navbar {
+    background-color: transparent;
+    --bs-navbar-padding-y: none
+}
+
+.navbar-container {
+    background: #000000;
+    height: inherit;
+    color: white;
+    box-shadow: 0 1rem 1rem -1rem rgba(0, 0, 0, 0.5);
+    padding: 0.75rem;
+    height: 4rem
+}
+
+/* radio-group ------------------------------------------------------------- */
+.radio-group .form-check {
+    padding-left: 0;
+}
+
+.radio-group .btn-group > .form-check:not(:last-child) > .btn {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.radio-group .btn-group > .form-check:not(:first-child) > .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-left: -1px;
+}
+
+/* HeatmapAIO -------------------------------------------------------------- */
+.heatmap-aio-tabs .nav-item .nav-link::after {
+    font-family: 'bootstrap-icons';
+    font-weight: 200;
+    font-style: normal;
+    text-decoration: none
+}
+
+.heatmap-aio-tabs .tab-content {
+    padding: 1rem;
+}
+
+.heatmap-aio-tabs .nav-item:nth-child(1) .nav-link::after {
+    content: '\f17e';
+}
+
+.heatmap-aio-tabs .nav-item:nth-child(2) .nav-link::after {
+    content: '\f4b1';
+}
+
+.heatmap-aio-tabs .nav-item:nth-child(3) .nav-link::after {
+    content: '\f3e5';
+}
+

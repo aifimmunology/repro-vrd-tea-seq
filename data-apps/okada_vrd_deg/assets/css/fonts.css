@@ -1,0 +1,76 @@
+/* Allen Institute Plus Text -------------------------------------------------- */
+@font-face {
+    font-family: 'AllenInstitutePlusText';
+    src: url('../fonts/fonts/AllenInstitutePlusText-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AllenInstitutePlusText';
+    src: url('../fonts/fonts/AllenInstitutePlusText-LightItalic.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AllenInstitutePlusText';
+    src: url('../fonts/fonts/AllenInstitutePlusText-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AllenInstitutePlusText';
+    src: url('../fonts/fonts/AllenInstitutePlusText-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AllenInstitutePlusText';
+    src: url('../fonts/fonts/AllenInstitutePlusText-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AllenInstitutePlusText';
+    src: url('../fonts/fonts/AllenInstitutePlusText-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AllenInstitutePlusText';
+    src: url('../fonts/fonts/AllenInstitutePlusText-Semibold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AllenInstitutePlusText';
+    src: url('../fonts/fonts/AllenInstitutePlusText-SemiboldItalic.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AllenInstitutePlusText';
+    src: url('../fonts/fonts/AllenInstitutePlusText-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AllenInstitutePlusText';
+    src: url('../fonts/fonts/AllenInstitutePlusText-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* apply globally ------------------------------------------------------------- */
+body {
+    font-family: 'AllenInstitutePlusText', system-ui, -apple-system, sans-serif;
+}
