@@ -12,7 +12,7 @@ from os import PathLike
 from dash import Input, Output, State, callback
 from dash_bootstrap_components import Offcanvas
 
-from ..utils import load_markdown
+from .utils import load_markdown
 
 class HelpPanel:
     """

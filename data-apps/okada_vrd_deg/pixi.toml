@@ -2,7 +2,7 @@
 authors = ["Lucas Graybuck <lucasg@alleninstitute.org>"]
 channels = ["conda-forge", "bioconda"]
 name = "okada_vrd_deg"
-platforms = ["osx-arm64"]
+platforms = ["osx-arm64", "linux-64"]
 version = "0.1.0"
 
 [tasks]

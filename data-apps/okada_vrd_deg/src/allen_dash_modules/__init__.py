@@ -1,5 +1,4 @@
-from .components import ConfigSingleton, DropDown, GenePanel, StartupModal, AppHeader, HelpPanel, SettingsPanel
-
-from .plots import BoxPlot, MAPlot, VolcanoPlot, HeatmapAIO, DegSummariesPlot
-
+from .app_header import *
+from .app_help import *
+from .app_settings import *
 from .utils import *
