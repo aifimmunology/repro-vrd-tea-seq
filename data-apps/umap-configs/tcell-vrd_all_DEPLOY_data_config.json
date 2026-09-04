@@ -1,0 +1,160 @@
+{    
+  "is_for_NOVA": false,
+  "project_dir": "tcell-vrd-all",
+  "pseudobulk_levels": ["Cell Type"],
+  "cell_dropdown_labs": ["Cell Type"],
+  "df_path": null,
+  "uuid": "8526cb45-a250-4068-9b9b-62144ca77600",
+  "study_space_id": "40df6403-29f0-4b45-ab7d-f46d420c422e",
+  "celltype_info_link": "",
+  "app_title": "T cell VRd TEA-seq",
+  "app_description": "Explore gene expression and subject metadata in this TEA-seq UMAP Explorer.",
+  "study_overview_link": "https://apps.allenimmunology.org/aifi/insights/tcell-vrd/",
+  "citation_info_link": "https://apps.allenimmunology.org/aifi/insights/tcell-vrd/cite/",
+  "celltype_info_link": "https://apps.allenimmunology.org/aifi/resources/imm-health-atlas/cell-type-descriptions/",
+  "sample_ids": [],
+  "point_size": 0.4,
+  "include_dot_plot_l1_annotations": true,
+  "celltype_conversion_dict": {},
+  "celltype_levels_dict": {
+    "Cell Type": "Cell Type"
+  },
+  "default_features": {
+      "rna": "CXCR4",
+      "celltype": "Cell Type",
+      "metadata": "Timepoint"
+  },
+  "metadata_features": {
+    "Well ID": "Well ID",
+    "Treatment": "Treatment",
+    "Timepoint": "Timepoint",
+    "RNA: Frac. Mito. UMIs": "RNA: Frac. Mito. UMIs",
+    "RNA: Log10(N Reads)": "RNA: Log10(N Reads)",
+    "RNA: Log10(N UMIs)": "RNA: Log10(N UMIs)",
+    "RNA: Log10(N Mito. UMIs)": "RNA: Log10(N Mito. UMIs)",
+    "RNA: Log10(N Genes)": "RNA: Log10(N Genes)",
+    "ADT: Log10(N UMIs)": "ADT: Log10(N UMIs)",
+    "ATAC: Log10(N Fragments)": "ATAC: Log10(N Fragments)",
+    "ATAC: Log10(N Unique Fragments)": "ATAC: Log10(N Unique Fragments)",
+    "ATAC: Log10(N Mito. UMIs + 1)": "ATAC: Log10(N Mito. UMIs + 1)",
+    "ATAC: Frac. Mito. Fragments": "ATAC: Frac. Mito. Fragments"
+  },
+  "metadata_na_fill": {
+  },
+  "continuous_metadata_features": [
+    "RNA: Frac. Mito. UMIs",
+    "RNA: Log10(N Reads)",
+    "RNA: Log10(N UMIs)",
+    "RNA: Log10(N Mito. UMIs)",
+    "RNA: Log10(N Genes)",
+    "ADT: Log10(N UMIs)",
+    "ATAC: Log10(N Fragments)",
+    "ATAC: Log10(N Unique Fragments)",
+    "ATAC: Log10(N Mito. UMIs + 1)",
+    "ATAC: Frac. Mito. Fragments"
+  ],  
+  "modality_options": [
+    {
+      "label": "Gene Expression",
+      "value": "rna"
+    },
+    {
+      "label": "ADT Expression",
+      "value": "adt"
+    },
+    {
+      "label": "Cell Type Annotations",
+      "value": "celltype"
+    },
+    {
+      "label": "Metadata",
+      "value": "metadata"
+    }
+  ],
+
+  "umap_coords_location": {
+    "rna": {"name": "UMAP (RNA)", "location": "obsm/X_umap"}
+  },
+  "rename_dict": {
+  },
+  "metadata_color_map": {
+    "Treatment": {
+      "DMSO": [
+        0,
+        0,
+        0
+      ],
+      "Bortezomib": [
+        255,
+        159,
+        69
+      ],
+      "Lenalidomide": [
+        89, 
+        193, 
+        189
+      ],
+      "Dexamethasone": [
+        141, 
+        158, 
+        255
+      ]
+    },
+    "Timepoint": {
+        "T4": [242, 190, 34],
+        "T24": [242, 151, 39],
+        "T72": [242, 76, 61]
+    }
+  },
+  "cell_type_color_map": {
+    "Cell Type": {
+      "CD4 Naive": [
+        147, 
+        167, 
+        209
+      ],
+      "CD4 CM": [
+        0, 
+        174, 
+        239
+      ],
+      "CD4 EM": [
+        28, 
+        116, 
+        188
+      ],
+      "CD4 Treg": [
+        229, 
+        122, 
+        147
+      ],
+      "CD8 Naive": [
+        141, 
+        198, 
+        63
+      ],
+      "CD8 Memory": [
+        0, 
+        148, 
+        69
+      ],
+      "CD8 MAIT": [
+        0, 
+        86, 
+        43
+      ]
+    }
+  },
+  "l1_label_order": [
+    "CD4 Naive",
+    "CD4 CM",
+    "CD4 EM",
+    "CD4 Treg",
+    "CD8 Naive",
+    "CD8 Memory",
+    "CD8 MAIT"
+  ],
+  "celltype_levels_list": [
+    "Cell Type"
+  ]
+}
